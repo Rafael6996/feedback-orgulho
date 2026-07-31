@@ -1,0 +1,1 @@
+// Formatar nota, data, texto etc antes de mostrar na tela // 
